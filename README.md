@@ -1,4 +1,7 @@
 # covid_dashboard_ciencia_dados
+
+https://coviddashboardcienciadados-bnim6bvt4ybsswk82igmvp.streamlit.app/ (link para o dashboard)
+
 Projeção de dados (atividade acadêmica) referente a pandemia de COVID-19 entre os anos de 2020 e 2023. 
 
 Utiliando Python no Linux: Pandas para tratamento de dados (.merge, .groupby, .melt, etc); Streamlit para a projeção dos dados via navegador; Plotly para gráficos; 
